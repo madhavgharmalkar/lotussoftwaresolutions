@@ -1,0 +1,35 @@
+{
+  "name": "lotussoftwaresolutions",
+  "version": "1.0.0",
+  "description": "Landing Page for Lotus Software Software Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavgharmalkar/lotussoftwaresolutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhavgharmalkar/lotussoftwaresolutions/issues"
+  },
+  "homepage": "https://github.com/madhavgharmalkar/lotussoftwaresolutions#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rev": "^8.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-usemin": "^0.3.28"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "gulp-autoprefixer": "^4.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+.section {
+    width: 100%;
+}
+
+@import './components/landing/landing.scss';
